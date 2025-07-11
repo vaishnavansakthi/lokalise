@@ -1,6 +1,7 @@
 {
-  "welcome_message": "Welcome to the app!",
-  "logout": "Logout",
-  "profile": "Profile",
-  "settings": "Settings"
+    "welcome_message": "Welcome to the app!",
+    "logout": "Logout",
+    "profile": "Profile",
+    "settings": "Settings",
+    "test": "test"
 }
